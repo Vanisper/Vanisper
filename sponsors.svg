@@ -18,4 +18,5 @@
       font-size: 20px;
     }
   </style>
+  <text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Sponsors</text>
 </svg>
